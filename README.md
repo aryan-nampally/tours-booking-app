@@ -152,7 +152,7 @@ You can also change your website URL by running this command:
 heroku apps: rename natours-users
 ```
 
-## Build With 🏗️
+## Built With 🏗️
 
 - [NodeJS](https://nodejs.org/en/) - JS runtime environment
 - [Express](http://expressjs.com/) - The web framework used
@@ -166,16 +166,6 @@ heroku apps: rename natours-users
 - [Mailtrap](https://mailtrap.io/) & [Sendgrid](https://sendgrid.com/) - Email delivery platform
 - [Heroku](https://www.heroku.com/) - Cloud platform
 - [Mapbox](https://www.mapbox.com/) - Displaying the different locations of each tour.
-
-## To-do 🗒️
-
-- Review and rating
-  - Allow users to add a review directly at the website after they have taken a tour
-- Booking
-  - Prevent duplicate bookings after a user has booked that exact tour, implement favorite tours
-- Advanced authentication features
-  - Signup, confirm user email, log in with refresh token, two-factor authentication
-- And More! There's always room for improvement!
 
 ## Setting Up Your Local Environment ⚙️
 
@@ -233,31 +223,10 @@ $ npm i eslint prettier eslint-config-prettier eslint-plugin-prettier eslint-con
 eslint-plugin-import eslint-plugin-jsx-a11y  eslint-plugin-react --save-dev
 ```
 
-## Contributing 💡
-
-Pull requests are welcome but please open an issue and discuss what you will do before 😊
-
-## Known Bugs 🚨
-
-Feel free to email me at lakshman.gope2@gmail.com if you run into any issues or have questions, ideas or concerns.
-Please enjoy and feel free to share your opinion, constructive criticism, or comments about my work. Thank you! 🙂
-
-## Future Updates 🪴
-
-- Enable PWA
-- Improve overall UX/UI and fix bugs
-- Featured Tours
-- Recently Viewed Tours
-- And More! There's always room for improvement!
-
-## License 📄
-
-This project is open-sourced under the [MIT license](https://opensource.org/licenses/MIT).
-
 ## Deployed Version 🚀
 
 Live demo (Feel free to visit) 👉🏻 : https://lgope-natours.onrender.com/
 
 ## Acknowledgement 🙏🏻
 
-- This project is part of the online course I've taken at Udemy. Thanks to Jonas Schmedtmann for creating this awesome course! Link to the course: [Node.js, Express, MongoDB & More: The Complete Bootcamp 2019](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/)
+- This project is part of the online course I've taken at Udemy. Thanks to Jonas Schmedtmann for creating this awesome course! Link to the course: [Node.js, Express, MongoDB & More: The Complete Bootcamp](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/)
